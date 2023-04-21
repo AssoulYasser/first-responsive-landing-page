@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/graphik');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: white;
+    background-image: url('drawable/BG1.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center top;
+    height: 100vh;
+}
